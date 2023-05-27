@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "jest --coverage",
-    "lint": "eslint .",
-    "build": "webpack"
+    "lint": "eslint ."
   },
   "author": "",
   "license": "ISC",
